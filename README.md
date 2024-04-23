@@ -1,9 +1,9 @@
 <div align=center>  
   <br/>
   ### Informations
-  📮 Email : [kghees1@gmail.com](mailto:kghees1@gmail.com)  
+  📮 Email : [kghees1@gmail.com](mailto:kghees1@gmail.com)<br>  
   📋 Devlog : https://kghees.github.io/
-  <br/>
+  <br>
   ### 🧸 Hits 🧸<br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkghees%2Fhit-counter&count_bg=%23C8BE3D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   ### 🕶 My SNS Lists 🕶<br>
