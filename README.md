@@ -42,9 +42,7 @@
 <br>
 
 ### ⭐ GitHub Stats ⭐<br>
-<a href="https://github.com/kghees">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghees&hide=Objective-C,c%2B%2B,Cmake,makeFile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghees&layout=compact)](https://github.com/kghees/github-readme-stats)
 
 
 
