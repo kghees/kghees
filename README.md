@@ -1,6 +1,6 @@
 <div align=center>  
   <br>
-  ### Informations <br>
+   Informations <br>
   📮 Email : [kghees1@gmail.com](mailto:kghees1@gmail.com)<br>  
   📋 Devlog : https://kghees.github.io/
   <br>
