@@ -37,7 +37,15 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  
+
+<br>
+<br>
+
+### ⭐ GitHub Stats ⭐<br>
+<a href="https://github.com/kghees">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghees&hide=Objective-C,c%2B%2B,Cmake,makeFile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 
 
