@@ -45,7 +45,7 @@
 
 ### ⭐ GitHub Stats ⭐<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghees&layout=compact)](https://github.com/kghees/github-readme-stats) <br>
-![kghees's github stats](https://github-readme-stats.vercel.app/api?username=tnals545&show_icons=true&theme=tokyonight)
+![kghees's github stats](https://github-readme-stats.vercel.app/api?username=kghees&show_icons=true&theme=tokyonight)
 
 
 <br>
