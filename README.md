@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/VisualStudio-7F52FF?style=flat-square&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
