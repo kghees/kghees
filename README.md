@@ -1,8 +1,10 @@
-<div align=center>  
+<div align=center>
+![header(https://capsulerender.vercel.app/apitype=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=kghees's%20GitHub&fontAlign=75&descAlign=81&descAlignY=55)
+  
   <br>
   <br>
   
-   **Informations** <br>
+  ### **Informations** <br>
   📮 Email : [kghees1@gmail.com](mailto:kghees1@gmail.com)<br>  
   📋 Devlog : https://kghees.github.io/
   <br>
@@ -16,7 +18,7 @@
   ### 🕶 My SNS Lists 🕶<br>
   <a href="https://www.instagram.com/ggeon_bro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
   <a href="https://kghees.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Devpost&logoColor=#0A0A0A"/></a>
-  <a href="mailto:kghees1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/devsoftychoo@gmail.com-02303A?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:kghees1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kghees1@gmail.com-02303A?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   <br>
   <br>
